@@ -1,3 +1,8 @@
+# Author: TheHackersBrain [Gaurav Raj]
+# Website: thehackersbrain.pythonanywhere.com/
+# Special Thanks to @techchipnet and @thelinuxchoice 
+
+
 import os
 import time
 import json
