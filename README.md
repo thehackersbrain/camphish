@@ -1,11 +1,11 @@
 # CamPhish
 
-![CamPhish](https://thehackersbrain.github.io/images/joker/camphish.png)
+![CamPhish](https://thehackersbrain.github.io/images/joker/camphish_banner.png)
 Take Snapshots by sending malicious link v2.0.0
 
 ## Version
 
-**CamPhish v2.0.0**
+**CamPhish **
 
 ## Requirements
 
@@ -15,7 +15,6 @@ Take Snapshots by sending malicious link v2.0.0
 
 -   **[Flask](https://pypi.org/project/Flask/)**
 
--   **[Pyfiglet](https://pypi.org/project/pyfiglet/)**
 
 Note : Make sure all requirements are satisfied...
 
