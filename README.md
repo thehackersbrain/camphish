@@ -5,7 +5,7 @@ Take Snapshots by sending malicious link v2.0.0
 
 ## Version
 
-**CamPhish **
+**CamPhish**
 
 ## Requirements
 
